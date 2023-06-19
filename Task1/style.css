@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+  background-color: black;  
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container{
+    color:black;
+    background-color: white;
+    width:61%;
+    border:11px solid white ;
+    margin: auto;
+    height:45em;
+    
+  
+}
+ .heading{
+    color: white;
+  background-image: url(task1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 302px;
+    background-size: cover;
+} 
+.headtext{
+    text-align: right;
+    
+}
+.headtext , .slogan{
+    margin-right: 150px;
+}
+h2{
+   font-size: 32px;
+   font-weight: 500;
+}
+.slogan{
+    margin-top: 5px;
+}
+div.content{
+    background-color:antiquewhite;
+    color: black;
+    width: 70%;
+    padding: 20px;
+ 
+    border-color:antiquewhite;
+}
+.main{
+   display: flex; 
+}
+ul{
+    list-style-type: none;
+    padding: 5px;
+}
+li{
+    color: aliceblue;
+    background-color: #4d9900;
+    width:276px;
+    padding: 10px;
+    margin: 5px;
+}
+
+

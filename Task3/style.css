@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.container{
+    background-color: gray;
+    margin: auto;
+    width:60%;
+    height: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.main{
+    padding: 25px;
+}
+.head{
+    background-image: url(task3.jpg);
+    background-size: cover;
+    height: 330px;
+    text-align: right;
+    /* position: absolute; */
+
+}
+.heading{
+    padding-top: 280px;
+    color: white;
+    font-size: 2rem;
+   
+}
+header{
+    padding: 5px;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    padding: 20px;
+   
+}
+li{
+    margin: 5px;
+  
+}
+.content{
+   background-color: white;
+   padding: 20px;
+}
+.content-heading{
+color: #008000;
+}
+.content1{
+margin-top: 5px;
+}
+.content2{
+    margin-top: 20px;
+}
+.main2{
+    margin-top: 20px;
+}

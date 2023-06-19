@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    width: 60%;
+    margin: auto;
+    border: 50px solid gray;
+   
+   
+    
+}
+
+.block1{
+    
+    display: flex;   
+}
+.head{
+    margin-top: 20px;
+}
+
+h1{
+    margin-left: 99px;
+}
+
+
+ul {
+    list-style: none;
+    display: flex;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+li{
+    padding: 5px;
+    margin-left: 10px;
+}
+.content{
+padding: 40px;
+}
+h3{
+    margin-top: 20px;
+}
+p{
+    margin-top: 20px;
+}
